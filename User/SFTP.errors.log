@@ -1,0 +1,28 @@
+2014-09-25 11:26:57
+Traceback (most recent call last):
+  File "/Applications/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 524, in run_
+    return self.run(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3006, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 134, in create_default_config
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/sftp-config.json'
+2014-09-25 11:27:35
+Traceback (most recent call last):
+  File "/Applications/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 524, in run_
+    return self.run(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3006, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 134, in create_default_config
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/sftp-config.json'
+2014-09-25 11:29:06
+Traceback (most recent call last):
+  File "/Applications/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 524, in run_
+    return self.run(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3006, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 134, in create_default_config
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/sftp-config.json'
+2014-09-25 11:29:17
+Traceback (most recent call last):
+  File "/Applications/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 524, in run_
+    return self.run(**args)
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3006, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 134, in create_default_config
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/sftp-config.json'
